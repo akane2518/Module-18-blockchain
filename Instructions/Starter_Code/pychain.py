@@ -54,7 +54,7 @@ import hashlib
 class Record:
     sender: str
     receiver: str
-    amount: int
+    amount: float
 
 
 ################################################################################
